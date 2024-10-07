@@ -27,9 +27,9 @@ To deploy the Subnet locally, run:
 When prompted, select the "Local Network" option.
 ### 3. Connect to the Subnet
 Use the following information to connect to your Subnet:
-- RPC URL: http://127.0.0.1:9650/ext/bc/2s6py1VRcHaFLFs2tmrLTAWrtmk5W2ALFkn8ukTqEfrqBPKrdW/rpc`- **Funded Address:** `0x8db97C7cEcE249c2b98bDC0226Cc4C2A57BF52FC (with 1,000,000 units)
-- Network Name: mySubnet`- **Chain ID:** `2224
+- RPC URL: http://127.0.0.1:9650/ext/bc/2s6py1VRcHaFLFs2tmrLTAWrtmk5W2ALFkn8ukTqEfrqBPKrdW/rpc <br /> - **Funded Address:** 0x8db97C7cEcE249c2b98bDC0226Cc4C2A57BF52FC (with 1,000,000 units)
+- Network Name: mySubnet  <br /> - **Chain ID:** 2224
 - Currency Symbol: ABHI  
 
 ## Conclusion
-Submitted By Abhilash101, have successfully set up an Avalanche Subnet, deployed Solidity contracts, and interacted with them using Remix and MetaMask.
+Submitted by Abhilash101, have successfully set up an Avalanche Subnet, deployed Solidity contracts, and interacted with them using Remix and MetaMask.
